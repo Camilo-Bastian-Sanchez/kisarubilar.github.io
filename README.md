@@ -13,3 +13,5 @@ Bienvenida/o a mi portafolio. Este proyecto es una vitrina de mis habilidades co
 
 ---
 *Este proyecto es parte del desafío de Git/GitHub para FDSW.*
+Estructura HTML correcta
+Proyecto visualizado correctamente en GitHub Pages
